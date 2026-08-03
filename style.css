@@ -671,3 +671,46 @@ width:10px;
 }
 
 ::-webkit-scrollbar-track
+/* Family Invitation */
+
+.family-invitation{
+
+text-align:center;
+
+padding:15px 10px;
+
+}
+
+.family-subtitle{
+
+font-family:'Almalik',serif;
+
+font-size:30px;
+
+color:#8B1E3F;
+
+margin-bottom:20px;
+
+}
+
+.family-text{
+
+max-width:720px;
+
+margin:15px auto;
+
+font-size:18px;
+
+line-height:2;
+
+color:#555;
+
+}
+
+.family-text strong{
+
+color:#8B1E3F;
+
+font-weight:700;
+
+}
